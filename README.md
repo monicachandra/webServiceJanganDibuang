@@ -7,7 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## Laravel Web Service
+Hello, it's a Laravel web service. Customly-made for Jangan Dibuang application posted in another repo :)
+In public folder, I also placed 2 Python file.
+One of 2 Python files, named appendingFeature.py is executed everytime a picture inputed to public folder.
+The function of this script is to append the new feature extracted.
+Another Python files named comparingImage.py is executed to do the image recognition, matching the queried image feature with another pictures features
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
